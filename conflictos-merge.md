@@ -1,0 +1,1 @@
+Hubo un conflicto ya que el archivo README.md esta distinto en las dos ramas. Para resolverlo borro el de la rama principal (previo copiar contenido que falta en el readme.md de la la rama proyecgtos) Y hago merge
